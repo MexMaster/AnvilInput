@@ -1,0 +1,6 @@
+name: AnvilInput
+version: 1.0
+main: epicapple.anvilinput.AnvilInput
+commands:
+  input:
+    usage: Ein Fehler ist aufgetreten
